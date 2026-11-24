@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Test Akademisyen 01",
+    "title": "Professor",
+    "country": "Country A",
+    "university": "University A",
+    "department": "Computer Engineering",
+    "fields": ["Machine Learning", "Artificial Intelligence", "Deep Learning"]
+  },
+  {
+    "name": "Test Akademisyen 02",
+    "title": "Associate Professor",
+    "country": "Country A",
+    "university": "University A",
+    "department": "Computer Engineering",
+    "fields": ["Machine Learning", "Data Mining"]
+  },
+  {
+    "name": "Test Akademisyen 03",
+    "title": "Assistant Professor",
+    "country": "Country B",
+    "university": "University B",
+    "department": "Computer Engineering",
+    "fields": ["Artificial Intelligence", "Natural Language Processing"]
+  },
+  {
+    "name": "Test Akademisyen 04",
+    "title": "Professor",
+    "country": "Country B",
+    "university": "University B",
+    "department": "Computer Engineering",
+    "fields": ["Computer Vision", "Deep Learning"]
+  },
+  {
+    "name": "Test Akademisyen 05",
+    "title": "Associate Professor",
+    "country": "Country C",
+    "university": "University C",
+    "department": "Computer Engineering",
+    "fields": ["Cyber Security", "Network Security"]
+  },
+  {
+    "name": "Test Akademisyen 06",
+    "title": "Assistant Professor",
+    "country": "Country C",
+    "university": "University C",
+    "department": "Computer Engineering",
+    "fields": ["Machine Learning", "Computer Vision"]
+  },
+  {
+    "name": "Test Akademisyen 07",
+    "title": "Professor",
+    "country": "Country A",
+    "university": "University A",
+    "department": "Computer Engineering",
+    "fields": ["Cyber Security", "Cryptography"]
+  },
+  {
+    "name": "Test Akademisyen 08",
+    "title": "Associate Professor",
+    "country": "Country D",
+    "university": "University D",
+    "department": "Computer Engineering",
+    "fields": ["Natural Language Processing", "Artificial Intelligence"]
+  },
+  {
+    "name": "Test Akademisyen 09",
+    "title": "Assistant Professor",
+    "country": "Country D",
+    "university": "University D",
+    "department": "Computer Engineering",
+    "fields": ["Data Mining", "Big Data"]
+  },
+  {
+    "name": "Test Akademisyen 10",
+    "title": "Professor",
+    "country": "Country E",
+    "university": "University E",
+    "department": "Computer Engineering",
+    "fields": ["Deep Learning", "Robotics"]
+  }
+]
