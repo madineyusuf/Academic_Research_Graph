@@ -2,16 +2,18 @@
 
 from pathlib import Path
 import json
+from field_normalizer import normalize_field
 
 from graph import Graph
 
 
+
 def clean_fields(academic):
-    """Akademisyenin çalışma alanlarını temizleyip tekrarsız küme döndürür."""
+    """Akademisyenin çalışma alanlarını normalize edip tekrarsız küme döndürür."""
     return {
-        str(field).strip()
+        normalize_field(field)
         for field in academic.get("fields", [])
-        if str(field).strip()
+        if normalize_field(field)
     }
 
 
